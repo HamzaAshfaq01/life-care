@@ -13,3 +13,5 @@
   <li>A lot of sections are described in this template.</li>
   <li>Structured using pure CSS grid layout.</li>
   </ul>
+  <h2>Preview</h2>
+  (https://hamzaashfaq01.github.io/life-care/)
